@@ -1,4 +1,4 @@
-package practices.practice01.task_01;
+package practices.practice_1.task_1;
 
 class Птица {
     public void летать() {
@@ -35,3 +35,4 @@ public class Main {
         }
     }
 }
+//test
